@@ -18,7 +18,7 @@ A custom search command for defanging and refanging URLs and IP Addresses .This 
 * Restart your splunk instance so the the app is loaded.
 * Global Permission so that the custom command and script is accessible
 
-# ppsdecode Command 101
+# defang Command
 
 This command is straightforward. At minimum, you just need to specify the field that contains the field you want to defang/refang
 
