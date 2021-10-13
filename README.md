@@ -1,7 +1,7 @@
 # TA_defanger
 
 
-Sometimes URLs and IPs can be malicious. It prevent accidental clicks or searches, you'll want to "defang" them so they become less harmful. In other cases, you'll want to "refang" them. This Splunk commands makes it easy to defang and refang any URL or IP addresses to suite your process.
+Sometimes URLs and IPs can be malicious. To prevent accidental clicks or searches, you'll want to "defang" them so they become less harmful. In other cases, you'll want to "refang" them. This Splunk commands makes it easy to defang and refang any URL or IP addresses to suite your process.
 
 # What is it?
 
